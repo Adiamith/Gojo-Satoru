@@ -20,11 +20,11 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['917561852787']
-global.premium = ['917561852787']
-global.ownernomer = '917561852787'
+global.premium = ['']
+global.ownernomer = ''
 global.ownername = 'i am flash'
 global.botname = 'Flash bot'
-global.footer = '©NexusNwInc.'
+global.footer = 'flashinc.'
 global.ig = 'https://github.com/Adiamith/Gojo-Satoru'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Adiamith/Gojo-Satoru'
